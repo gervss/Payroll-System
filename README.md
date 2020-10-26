@@ -2,8 +2,8 @@
 
 Payroll System is a program that you can calculate salaries of employee and attendance report 
 
-Feature
-
+Main features
+---
 - Database Secured
 - Attendance Monitoring
 - Time in / Time out and Date Report
