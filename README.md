@@ -13,5 +13,6 @@ Main features
 - Register Employee with Update and can't delete for privacy Database 
 - Login and User Control for Admin Access 
 - Employee Salarie Logs with Report Viewing and Printing Access
+- Flat Design with Friendly User 
 
 Create using Visual Studion 2012 and SQL Server 2012
