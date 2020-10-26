@@ -1,0 +1,70 @@
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.exe.config
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Admin.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Attendance.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Credits.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Form1.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Form2.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Main.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Properties.Resources.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Register.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csproj.GenerateResource.Cache
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\RdlCompile.cache
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\RdlCompile.compiled
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\DBRamir2016.mdf
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\DBRamir2016_log.ldf
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.exe
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.pdb
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\MetroFramework.Design.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\MetroFramework.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\MetroFramework.Fonts.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.exe
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.pdb
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csprojResolveAssemblyReference.cache
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Print.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Report.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.exe.config
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.exe
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.pdb
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\bin\Release\DBRamir2016.mdf
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\bin\Release\DBRamir2016_log.ldf
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.exe
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.pdb
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csprojResolveAssemblyReference.cache
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Admin.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Attendance.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Credits.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Form1.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Form2.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Main.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Print.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Properties.Resources.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Register.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Report.resources
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csproj.GenerateResource.Cache
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\RdlCompile.cache
+C:\Users\Mang Tomas\Desktop\Payroll 2018\Project_Ramir\obj\Release\RdlCompile.compiled
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csprojAssemblyReference.cache
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Admin.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Attendance.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Credits.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Form1.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Form2.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Main.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Print.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Properties.Resources.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Register.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.Report.resources
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csproj.GenerateResource.cache
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csproj.CoreCompileInputs.cache
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.exe
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.pdb
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\DBRamir2016.mdf
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\DBRamir2016_log.ldf
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.exe.config
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.exe
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\Project_Ramir.pdb
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ows\Downloads\Compressed\Payroll 2018\Payroll 2018\Project_Ramir\obj\Release\Project_Ramir.csproj.CopyComplete

@@ -1,0 +1,92 @@
+c:\users\pochi\documents\visual studio 2012\Projects\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe.config
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe.config
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.csprojResolveAssemblyReference.cache
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Admin.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Credits.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Form1.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Main.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Properties.Resources.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Register.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Report.resources
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.csproj.GenerateResource.Cache
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\DBRamir2016.mdf
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\DBRamir2016_log.ldf
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.pdb
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.dll
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.exe
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.pdb
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\RdlCompile.cache
+C:\Users\Dash\Desktop\Project_Ramir\Project_Ramir\obj\Debug\RdlCompile.compiled
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe.config
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.exe
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.pdb
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\DBRamir2016.mdf
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\DBRamir2016_log.ldf
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.pdb
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.Design.dll
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.dll
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.Fonts.dll
+E:\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.csprojResolveAssemblyReference.cache
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Admin.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Credits.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Form1.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Main.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Properties.Resources.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Register.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Report.resources
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.csproj.GenerateResource.Cache
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\RdlCompile.cache
+E:\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\RdlCompile.compiled
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\DBRamir2016.mdf
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\DBRamir2016_log.ldf
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe.config
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.exe
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Project_Ramir.pdb
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.Design.dll
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.dll
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\MetroFramework.Fonts.dll
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.csprojResolveAssemblyReference.cache
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Admin.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Credits.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Form1.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Main.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Properties.Resources.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Register.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.Report.resources
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.csproj.GenerateResource.Cache
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\RdlCompile.cache
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\RdlCompile.compiled
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.exe
+E:\New folder (2)\System Thesis\Project_Ramir\Project_Ramir\obj\Debug\Project_Ramir.pdb
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\Project_Ramir.exe.config
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.exe
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.pdb
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\DBRamir2016.mdf
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\DBRamir2016_log.ldf
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\Project_Ramir.exe
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\Project_Ramir.pdb
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\MetroFramework.Design.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\MetroFramework.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\MetroFramework.Fonts.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.csprojResolveAssemblyReference.cache
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Admin.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Credits.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Form1.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Main.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Properties.Resources.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Register.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.csproj.GenerateResource.Cache
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\RdlCompile.cache
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\RdlCompile.compiled
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Attendance.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Form2.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Print.resources
+E:\New folder (2)\System Thesis\Payroll 2018\Project_Ramir\obj\Debug\Project_Ramir.Report.resources

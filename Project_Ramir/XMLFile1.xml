@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+private void cb_sss_single_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_sss_single.Checked == true)
+{
+lbl_1.Text = "950";
+}
+else
+{
+lbl_1.Text = "0";
+}
+}
+
+private void cb_phil_single_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_phil_single.Checked == true)
+{
+lbl_2.Text = "900";
+}
+else
+{
+lbl_2.Text = "0";
+}
+}
+
+private void cb_ibig_single_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_ibig_single.Checked == true)
+{
+lbl_3.Text = "800";
+}
+else
+{
+lbl_3.Text = "0";
+}
+}
+
+private void cb_sss_widowed_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_sss_widowed.Checked == true)
+{
+lbl_1.Text = "850";
+}
+else
+{
+lbl_1.Text = "0";
+}
+}
+
+private void cb_phil_widowed_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_phil_widowed.Checked == true)
+{
+lbl_2.Text = "800";
+}
+else
+{
+lbl_2.Text = "0";
+}
+}
+
+private void cb_ibig_widowed_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_ibig_widowed.Checked == true)
+{
+lbl_3.Text = "700";
+}
+else
+{
+lbl_3.Text = "0";
+}
+}
+
+private void cb_sss_divorce_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_sss_divorce.Checked == true)
+{
+lbl_1.Text = "600";
+}
+else
+{
+lbl_1.Text = "0";
+}
+}
+
+private void cb_phil_divorce_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_phil_divorce.Checked == true)
+{
+lbl_2.Text = "550";
+}
+else
+{
+lbl_2.Text = "0";
+}
+}
+
+private void cb_ibig_divorce_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_ibig_divorce.Checked == true)
+{
+lbl_3.Text = "400";
+}
+else
+{
+lbl_3.Text = "0";
+}
+}
+
+private void cb_sss_seperated_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_sss_seperated.Checked == true)
+{
+lbl_1.Text = "420";
+}
+else
+{
+lbl_1.Text = "0";
+}
+}
+
+private void cb_phil_seperated_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_phil_seperated.Checked == true)
+{
+lbl_2.Text = "350";
+}
+else
+{
+lbl_2.Text = "0";
+}
+}
+
+private void cb_ibig_seperated_CheckedChanged(object sender, EventArgs e)
+{
+if (cb_ibig_seperated.Checked == true)
+{
+lbl_3.Text = "270";
+}
+else
+{
+lbl_3.Text = "0";
+}
+}
+
+
+
+
+
+
+
+
+
+if (txt_status.Text == "Single")
+{
+check_sss.Text = "SSS (950)";
+check_phil.Text = "Phil Health (900)";
+check_ibig.Text = "Pag-Ibig (800)";
+}
+else
+{
+}
+
+if (txt_status.Text == "Married")
+{
+check_sss.Text = "SSS (100)";
+check_phil.Text = "Phil Health (200)";
+check_ibig.Text = "Pag-Ibig (300)";
+}
+else
+{
+}
+
+if (txt_status.Text == "Separated")
+{
+check_sss.Text = "SSS (420)";
+check_phil.Text = "Phil Health (350)";
+check_ibig.Text = "Pag-Ibig (270)";
+}
+else
+{
+}
+if (txt_status.Text == "Divorced")
+{
+check_sss.Text = "SSS (600)";
+check_phil.Text = "Phil Health (500)";
+check_ibig.Text = "Pag-Ibig (400)";
+}
+else
+{
+}
+
+if (txt_status.Text == "Widowed")
+{
+check_sss.Text = "SSS (850)";
+check_phil.Text = "Phil Health (800)";
+check_ibig.Text = "Pag-Ibig (700)";
+}
+else
+{
+}
